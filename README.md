@@ -27,5 +27,7 @@ The dataset is known as "Model National Institute of Standards and Technolgy" (M
 
 [Download the dataset](http://yann.lecun.com/exdb/mnist/)
 
+## How to Run the Project
+
 
 
