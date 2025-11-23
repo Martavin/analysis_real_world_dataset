@@ -5,19 +5,19 @@ In this project, I will build a Binary Classifier that determines if an image is
 ---
 
 ## Project Overview
-This is a data science project that uses a real world dataset to anayze the perfomacne of a Binary Classiser
--Data loading and description
+This is a data science project that uses a real world dataset to anayze the perfomacne of a Binary Classiser:
+- Data loading and descriptions
 - Model training
 - Building a Binary classifer
-- Model Evalution
+- Model evaluation
 
 The goal is to build a binary classifier that examinies if an image is the digit 3
 
 ## Skills Demonstrated 
 - Data analysis using **sklearn**
 - Machine learning using **scikit-learn**
-- Data Handling using **binary Classification**
-- Model Evaluation **Confusion Matrix and ROC curve**
+- Data Handling using a **Binary Classification**
+- Model Evaluation using **Confusion Matrix and ROC curve**
 - Visulization using **matplotlib**
 - Writing clean code using Python
 
@@ -28,6 +28,6 @@ The dataset is known as "Model National Institute of Standards and Technolgy" (M
 [Download the dataset](http://yann.lecun.com/exdb/mnist/)
 
 ## How to Run the Project
-
+https://github.com/Martavin/analysis_real_world_dataset/blob/main/Classifier_Project.ipynb
 
 
